@@ -1,7 +1,7 @@
 /// base file  : SensorNearData/MFC/CameraInterface.h
 syntax = "proto2";
 
-package pb.SensorNearData.MFC;
+
 
 import "header.proto";
 
