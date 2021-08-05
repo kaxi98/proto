@@ -2,9 +2,6 @@
 syntax = "proto2";
 
 
-
-import "header.proto";
-
 message CameraImage
 {
   optional  pb.Header header                  =   1;                    ///  common message header
