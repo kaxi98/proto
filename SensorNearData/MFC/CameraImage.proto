@@ -1,4 +1,6 @@
 /// base file  : SensorNearData/MFC/CameraInterface.h
+Access-Control-Allow-Origin: *
+
 syntax = "proto2";
 
 
