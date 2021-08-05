@@ -4,6 +4,10 @@ Access-Control-Allow-Origin: *
 syntax = "proto2";
 
 
+package pb.SensorNearData.MFC;
+import "header.proto";
+
+
 message CameraImage
 {
   optional  pb.Header header                  =   1;                    ///  common message header
