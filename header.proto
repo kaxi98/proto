@@ -3,6 +3,9 @@
  *
  * Author: CTZS
  */
+ 
+Access-Control-Allow-Origin: *
+
 syntax = "proto3";
 
 option java_outer_classname = "MsgHeader";
